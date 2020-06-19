@@ -13,9 +13,14 @@
 </p>
 
 
+<br >
+  <p align="center">
+    <img  src="./public/gif.gif" alt="Demo" width="400">
+  </p>
+<br>
+
 <p align="center">
   <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
