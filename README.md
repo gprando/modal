@@ -1,68 +1,55 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Scripts   </h1>
+<p align="center">
+<strong>Modal simples em react</strong>
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">
+  <a aria-label="Prando" href="https://github.com/gprando/">
+    <img src="https://img.shields.io/github/followers/gprando?style=social"></img>
+  </a>
+    <img src="https://img.shields.io/github/last-commit/gprando/modal"></img>
+    <img src="https://img.shields.io/github/languages/count/gprando/modal"></img>
+</p>
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Live Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 🚀 Instalação e execução
 
-### `yarn test`
+<br/>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Abra o terminal do seu computador. Se estiver no Windows, pode ser o Prompt de Comando ou PowerShell. Caso use o WSL no Windows, use o Windows Terminal, usando o Ubuntu ou qualquer distribuição suportada pelo WSL. 
+2. Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
+3. Faça um clone desse repositório rodando: <br> `git clone https://github.com/gprando/modal`;
+4. Entre na pasta rodando pelo terminal: `cd modal`;
+5. Instale as dependências do projeto com <br/> `yarn`;
+6. Para executar o projeto `yarn start`.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🤔 Como contribuir
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Se quiser contribuir para esse repositório aqui, seja corrigindo algum problema, adicionando comentários ou melhorando a documentação, você pode seguir esse tutorial abaixo:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Faça [um fork](https://help.github.com/pt/github/getting-started-with-github/fork-a-repo) desse repositório;
+- Entre no seu perfil no GitHub e faça um clone do repositório que você fez um *fork*;
+- Crie uma *branch* com a sua alteração: `git checkout -b minha-alteracao`;
+- Faça as alterações necessárias no código ou na documentação;
+- Faça *commit* das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça *push* para a sua *branch*: `git push origin minha-alteracao`;
+- Agora é só abrir a sua *pull request* no repositório que você fez o *fork*;
 
-### `yarn eject`
+Depois que o *merge* da sua *pull request* for feito, você pode deletar a sua *branch*.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :memo: Licença
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+com  :heart: [Gabriel Prando](https://github.com/gprando)    
