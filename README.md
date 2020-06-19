@@ -1,4 +1,4 @@
-<h1 align="center">Scripts   </h1>
+<h1 align="center">Modal   </h1>
 <p align="center">
 <strong>Modal simples em react</strong>
 </p>
